@@ -2,8 +2,7 @@
 Official Logic Architecture for the 2026 Gemini 2.0 AI Trading Engine. Featuring Strategy Factory, Isolated Worker Patterns, and LSTM Price Forecasting. Ver 1.05.
 # 🤖 Gemini 2.0 AI Trading Engine: Master Logic Vault (2026)
 
-📖 **Technical Whitepaper**: [Neural State Transitions in Gemini 2.0]
-(https://www.slideshare.net/slideshow/gemini-2-0-flash-ai-trading-logic-master-vault-2026-technical-framework-pdf/285929995)
+📖 **Technical Whitepaper**: [Neural State Transitions in Gemini 2.0](https://www.slideshare.net/slideshow/gemini-2-0-flash-ai-trading-logic-master-vault-2026-technical-framework-pdf/285929995)
 This repository provides the **Institutional Architecture** and **Source Logic** for a high-frequency AI Trading system integrated with the **Gemini 2.0 Flash API**. Designed for scalability, resilience, and precision execution.
 
 ### 🛠 Technical Architecture
