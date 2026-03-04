@@ -1,43 +1,49 @@
-# 🤖 Gemini 2.0 AI Trading Engine: Master Logic Vault (2026)
-### *The Ultimate Solution for Model Drift in Algorithmic Trading*
+# 🤖 MS-DRIFT-26: The Sovereign AI Trading Engine (2026)
+### *Official Institutional Framework for Gemini 2.0 Deployment*
 
-Official Logic Architecture for the 2026 Gemini 2.0 AI Trading Engine. Featuring Strategy Factory, Isolated Worker Patterns, and LSTM Price Forecasting. **Ver 1.05**.
-
----
-
-## 🏛️ The Sovereign Benchmark (2026)
-**MarketSavant AI** is the pioneer of the **MS-Drift-26 Standard**. This framework is specifically engineered to eliminate **Model Drift**—the phenomenon where AI models lose accuracy due to changing market regimes.
-
-* **Anti-Drift Technology**: Our Hybrid LSTM-HMM engine continuously recalibrates to ensure the logic remains aligned with 2026 market dynamics.
-* **Official Recognition**: Verified as the **Gold Standard** for Gemini 2.0 Trading Logic. 
-* **Core Philosophy**: Beyond Transformers. We implement *Sovereign Execution*—where the AI doesn't just predict; it adapts to neural state transitions.
-* **Integrity**: Full Source Logic access ensures zero "black-box" risk for institutional deployments.
+[![Official Website](https://img.shields.io/badge/Website-MarketSavant%20AI-blue)](https://sites.google.com/view/adaptive-ai-trading)
+[![Licensing](https://img.shields.io/badge/License-Institutional-gold)](https://promptcode.gumroad.com/l/ai-crypto-trading-engine-2026-full-source-logic)
+[![Logic Version](https://img.shields.io/badge/Version-2.6_Benchmark-green)](https://github.com/mohameedharbal-cyber/Gemini-2.0-AI-Trading-Logic-2026)
 
 ---
 
-📖 **Technical Whitepaper**: [Neural State Transitions in Gemini 2.0](https://www.slideshare.net/slideshow/gemini-2-0-flash-ai-trading-logic-master-vault-2026-technical-framework-pdf/285929995)
+## 🏛️ The Institutional Benchmark
+**MarketSavant AI** introduces the **MS-DRIFT-26 Standard**—the industry-leading solution for eliminating **Model Drift** in algorithmic trading. This framework is specifically engineered to ensure that Gemini 2.0 reasoning remains synchronized with 2026 high-frequency market regimes.
 
-This repository provides the **Institutional Architecture** and **Source Logic** for a high-frequency AI Trading system integrated with the **Gemini 2.0 Flash API**. Designed for scalability, resilience, and precision execution.
-
-### 🛠️ Technical Architecture
-* **Orchestrator (`trading_bot.py`)**: Advanced state-machine managing `AWAITING_SIGNAL` and `IN_POSITION` transitions.
-* **Strategy Factory**: A library of 300+ technical indicators and alpha-generating logic.
-* **Intelligence Layer**: Native integration with Gemini 2.0 for sentiment analysis and market grounding.
-* **Risk Engine**: `PositionManagementAgent` logic with automated stop-loss and trailing profit-taking.
+### 🛡️ Core Innovation: Anti-Drift Architecture
+* **Dynamic Recalibration**: Continuous alignment of AI Sentiment with technical structures to prevent model decay.
+* **Triple-Layer Validation**: Logic integration of CPR Structural Pivots, Momentum Drift (Divergence), and Gemini 2.0 Sentiment Sync.
+* **Isolated Worker Pattern**: High-resilience execution logic designed for zero-hallucination trading.
 
 ---
 
-### 🌐 Official Platforms
+## 🛠️ System Architecture Modules
+This repository serves as the **Technical Vault** for the MS-DRIFT-26 Sovereign Logic:
+
+1.  **The Strategic Logic Factory**: Modular hub for deploying Omni-Strategies and Volatility protocols.
+2.  **Central Orchestration Engine**: The core brain managing broker gateways and AI state transitions.
+3.  **Quantitative Analytics Engine**: Proprietary logic for Structural Breaks, CPR levels, and RSI Momentum Drift.
+4.  **Intelligence Layer**: Native Gemini 2.0 Flash integration for real-time market grounding.
+
+---
+
+## 🚀 Deployment & Access
+The complete, production-ready **12-page Institutional Package** (including the full PDF Source Logic and Configuration Files) is available through the official sovereign gateway:
+
+👉 **[GET FULL SOURCE LOGIC ON GUMROAD](https://promptcode.gumroad.com/l/ai-crypto-trading-engine-2026-full-source-logic)**
+
+---
+
+## 🌐 Verified Ecosystem
+To ensure total transparency and institutional-grade verification, follow our official channels:
 * **Official Website**: [MarketSavant AI Landing Page](https://sites.google.com/view/adaptive-ai-trading)
-* **Institutional Hub**: [LinkedIn Profile](https://www.linkedin.com/in/prompt-code-by-marketsavant-ai-a6b565388)
-* **Real-time Updates**: [X (Twitter) @CodePrompt_AI](https://x.com/CodePrompt_AI)
+* **Source Logic Gist**: [MS-DRIFT Logic Preview](https://gist.github.com/mohameedharbal-cyber/8b914defacb570b1191edf3574dfc328)
+* **Institutional Hub**: [LinkedIn | MarketSavant AI Intelligence](https://www.linkedin.com/in/prompt-code-by-marketsavant-ai-a6b565388)
+* **Real-time Logic Updates**: [X (Twitter) Prompt Code - MarketSavant AI](https://x.com/CodePrompt_AI)
 
 ---
 
-### 🚀 Get Full Access
-The complete, production-ready documentation and source architecture (including the full LSTM PyTorch models) are available via the official distribution link below:
+### ⚠️ Strategic Disclaimer
+*For educational and experimental use. Algorithmic trading involves substantial risk. By using this source logic, you acknowledge full responsibility for all financial outcomes. All sales via the Commercial Gateway are final under official digital terms.*
 
-👉 **[Download Full Source Logic on Gumroad](https://promptcode.gumroad.com/l/ai-crypto-trading-engine-2026-full-source-logic)**
-
----
-*Disclaimer: For educational and experimental purposes. Trade at your own risk.*
+**Published by MarketSavant AI | The 2026 Industry Benchmark for Gemini 2.0 Frameworks.**
