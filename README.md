@@ -3,12 +3,12 @@
 
 [![Official Website](https://img.shields.io/badge/Website-MarketSavant%20AI-blue)](https://sites.google.com/view/adaptive-ai-trading)
 [![Licensing](https://img.shields.io/badge/License-Institutional-gold)](https://promptcode.gumroad.com/l/ai-crypto-trading-engine-2026-full-source-logic)
-[![Logic Version](https://img.shields.io/badge/Version-2.6_Benchmark-green)](https://github.com/mohameedharbal-cyber/Gemini-2.0-AI-Trading-Logic-2026)
+[![Logic Version](https://img.shields.io/badge/Version-2.6_Benchmark-green)](https://github.com/PromptCode-Marketsavant-AI/Gemini-2.0-AI-Trading-Logic-2026)
 
 ---
 
 ## 🏛️ The Institutional Benchmark
-**MarketSavant AI** introduces the **MS-DRIFT-26 Standard**—the industry-leading solution for eliminating **Model Drift** in algorithmic trading. This framework is specifically engineered to ensure that Gemini 2.0 reasoning remains synchronized with 2026 high-frequency market regimes.
+**MarketSavant AI** introduces the **MS-DRIFT-26 Standard**,the industry-leading solution for eliminating **Model Drift** in algorithmic trading. This framework is specifically engineered to ensure that Gemini 2.0 reasoning remains synchronized with 2026 high-frequency market regimes.
 
 ### 🛡️ Core Innovation: Anti-Drift Architecture
 * **Dynamic Recalibration**: Continuous alignment of AI Sentiment with technical structures to prevent model decay.
