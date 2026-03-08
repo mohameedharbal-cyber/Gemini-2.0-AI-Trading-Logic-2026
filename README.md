@@ -17,13 +17,15 @@
 
 ---
 
-## 🛠️ System Architecture Modules
-This repository serves as the **Technical Vault** for the MS-DRIFT-26 Sovereign Logic:
+## 🛠️ Modular System Architecture (The Pipeline)
+This repository serves as the **Technical Vault** for the MS-DRIFT-26 Sovereign Logic. The full infrastructure follows a strict 6-layer execution flow:
 
-1.  **The Strategic Logic Factory**: Modular hub for deploying Omni-Strategies and Volatility protocols.
-2.  **Central Orchestration Engine**: The core brain managing broker gateways and AI state transitions.
-3.  **Quantitative Analytics Engine**: Proprietary logic for Structural Breaks, CPR levels, and RSI Momentum Drift.
-4.  **Intelligence Layer**: Native Gemini 2.0 Flash integration for real-time market grounding.
+1. **`ms_config.yaml`** (The Sovereign Core): Centralized control for risk parameters, API security, and institutional thresholds.
+2. **`ms_analytics.py`** (Quantitative Engine): Proprietary logic for Structural Breaks, CPR levels, and RSI Momentum Drift.
+3. **`ms_orchestrator.py`** (The Brain): Asynchronous management of data streams, broker gateways, and state transitions.
+4. **`ms_ai_agents.py`** (Intelligence Layer): Native Gemini 2.0 Flash integration for real-time market grounding.
+5. **`ms_strategy_factory.py`** (The Execution Hub): Modular hub for deploying Omni-Strategies and Volatility protocols.
+6. **`ms_audit_engine.py`** (Transparency Vault): Institutional-grade JSON logging for 100% decision auditability.
 
 ---
 
@@ -34,10 +36,17 @@ The complete, production-ready **12-page Institutional Package** (including the 
 
 ---
 
+## 🔍 Technical Verification (Logic Preview)
+Before full deployment, institutional users can audit the core grounding protocols and latency benchmarks via our official technical preview:
+
+🔗 **[Official Gist | MS-DRIFT Logic Architecture Preview](https://gist.github.com/PromptCode-Marketsavant-AI/8b914defacb570b1191edf3574dfc328)**
+* *Audit the Sub-10ms processing logic and the Isolated Worker Pattern.*
+
+---
+
 ## 🌐 Verified Ecosystem
 To ensure total transparency and institutional-grade verification, follow our official channels:
 * **Official Website**: [MarketSavant AI Landing Page](https://sites.google.com/view/adaptive-ai-trading)
-* **Source Logic Gist**: [MS-DRIFT Logic Preview](https://gist.github.com/mohameedharbal-cyber/8b914defacb570b1191edf3574dfc328)
 * **Institutional Hub**: [LinkedIn | MarketSavant AI Intelligence](https://www.linkedin.com/in/prompt-code-by-marketsavant-ai-a6b565388)
 * **Real-time Logic Updates**: [X (Twitter) Prompt Code - MarketSavant AI](https://x.com/CodePrompt_AI)
 
