@@ -18,19 +18,20 @@
 ---
 
 ## 🛠️ Modular System Architecture (The Pipeline)
-This repository serves as the **Technical Vault** for the MS-DRIFT-26 Sovereign Logic. The full infrastructure follows a strict 6-layer execution flow:
+This repository serves as the **Technical Vault** for the MS-DRIFT-26 Sovereign Logic. The infrastructure follows a strict 7-layer execution flow:
 
-1. **`ms_config.yaml`** (The Sovereign Core): Centralized control for risk parameters, API security, and institutional thresholds.
-2. **`ms_analytics.py`** (Quantitative Engine): Proprietary logic for Structural Breaks, CPR levels, and RSI Momentum Drift.
-3. **`ms_orchestrator.py`** (The Brain): Asynchronous management of data streams, broker gateways, and state transitions.
-4. **`ms_ai_agents.py`** (Intelligence Layer): Native Gemini 2.0 Flash integration for real-time market grounding.
-5. **`ms_strategy_factory.py`** (The Execution Hub): Modular hub for deploying Omni-Strategies and Volatility protocols.
-6. **`ms_audit_engine.py`** (Transparency Vault): Institutional-grade JSON logging for 100% decision auditability.
+1. **`ms_config.yaml`** (**The Sovereign Core**): Centralized control for risk parameters, API security protocols, and institutional thresholds.
+2. **`ms_analytics.py`** (**Quantitative Engine**): Proprietary logic for detecting Structural Breaks, CPR levels, and RSI Momentum Drift.
+3. **`ms_orchestrator.py`** (**The Brain**): Asynchronous hub for real-time data stream management, broker gateways, and system state transitions.
+4. **`ms_ai_agents.py`** (**Intelligence Layer - Part 1 & 2**): Native Gemini 2.0 Flash integration utilizing Dual-Phase Reasoning for real-time market grounding.
+5. **`ms_strategy_factory.py`** (**The Execution Hub**): Modular framework for deploying Omni-Strategies and Volatility protocols.
+6. **`ms_execution_engine.py`** (**Gateway Protocol**): High-speed broadcasting logic for multi-asset order transmission and broker connectivity.
+7. **`ms_audit_engine.py`** (**Transparency Vault**): Institutional-grade JSON logging system for 100% decision auditability and post-trade verification.
 
 ---
 
 ## 🚀 Deployment & Access
-The complete, production-ready **12-page Institutional Package** (including the full PDF Source Logic and Configuration Files) is available through the official sovereign gateway:
+The complete, production-ready **14-page Institutional Package** (including the full PDF Source Logic and Configuration Files) is available through the official sovereign gateway:
 
 👉 **[GET FULL SOURCE LOGIC ON GUMROAD](https://promptcode.gumroad.com/l/ai-crypto-trading-engine-2026-full-source-logic)**
 
